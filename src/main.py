@@ -1,5 +1,5 @@
 import streamlit as st
-from decouple import config
+from python-decouple import config
 import openai
 
 response = False
