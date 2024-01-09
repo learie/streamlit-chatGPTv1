@@ -2,4 +2,4 @@ altair
 streamlit
 watchdog
 openai
-python-decouple
+decouple
