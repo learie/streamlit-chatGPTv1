@@ -1,5 +1,5 @@
 altair
 streamlit
 watchdog
-openai
+openai==1.7.01
 python-decouple
